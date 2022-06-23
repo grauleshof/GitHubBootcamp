@@ -15,7 +15,7 @@ on:
         required: true
 jobs:
  Build:
-    name: Testbuild
+    name: Testbuild2
     runs-on: ubuntu-latest
     steps:
       - run: |
